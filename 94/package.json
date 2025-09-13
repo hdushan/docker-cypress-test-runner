@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "license": "MIT",
     "dependencies": {
-        "@slack/webhook": "^5.0.4",
+        "@slack/webhook": "^7.0.0",
         "babel-eslint": "^10.1.0",
         "cypress": "^9.1.1",
         "eslint": "^7.32.0",
