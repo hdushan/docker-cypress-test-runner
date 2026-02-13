@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "license": "MIT",
     "dependencies": {
-        "@slack/webhook": "^5.0.4",
+        "@slack/webhook": "^7.0.0",
         "babel-eslint": "^10.1.0",
-        "cypress": "^9.1.1",
-        "eslint": "^7.32.0",
+        "cypress": "^13.0.0",
+        "eslint": "^10.0.0",
         "eslint-config-airbnb-base": "^14.2.1",
         "eslint-config-prettier": "^8.3.0",
         "eslint-plugin-chai-friendly": "^0.7.2",
